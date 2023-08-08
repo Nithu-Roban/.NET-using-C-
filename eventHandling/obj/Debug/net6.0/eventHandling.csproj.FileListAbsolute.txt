@@ -1,0 +1,15 @@
+E:\nithu\eventHandling\bin\Debug\net6.0\eventHandling.exe
+E:\nithu\eventHandling\bin\Debug\net6.0\eventHandling.deps.json
+E:\nithu\eventHandling\bin\Debug\net6.0\eventHandling.runtimeconfig.json
+E:\nithu\eventHandling\bin\Debug\net6.0\eventHandling.dll
+E:\nithu\eventHandling\bin\Debug\net6.0\eventHandling.pdb
+E:\nithu\eventHandling\obj\Debug\net6.0\eventHandling.csproj.AssemblyReference.cache
+E:\nithu\eventHandling\obj\Debug\net6.0\eventHandling.GeneratedMSBuildEditorConfig.editorconfig
+E:\nithu\eventHandling\obj\Debug\net6.0\eventHandling.AssemblyInfoInputs.cache
+E:\nithu\eventHandling\obj\Debug\net6.0\eventHandling.AssemblyInfo.cs
+E:\nithu\eventHandling\obj\Debug\net6.0\eventHandling.csproj.CoreCompileInputs.cache
+E:\nithu\eventHandling\obj\Debug\net6.0\eventHandling.dll
+E:\nithu\eventHandling\obj\Debug\net6.0\refint\eventHandling.dll
+E:\nithu\eventHandling\obj\Debug\net6.0\eventHandling.pdb
+E:\nithu\eventHandling\obj\Debug\net6.0\eventHandling.genruntimeconfig.cache
+E:\nithu\eventHandling\obj\Debug\net6.0\ref\eventHandling.dll

@@ -1,0 +1,15 @@
+E:\nithu\DeserializingPrgm\bin\Debug\net6.0\DeserializingPrgm.exe
+E:\nithu\DeserializingPrgm\bin\Debug\net6.0\DeserializingPrgm.deps.json
+E:\nithu\DeserializingPrgm\bin\Debug\net6.0\DeserializingPrgm.runtimeconfig.json
+E:\nithu\DeserializingPrgm\bin\Debug\net6.0\DeserializingPrgm.dll
+E:\nithu\DeserializingPrgm\bin\Debug\net6.0\DeserializingPrgm.pdb
+E:\nithu\DeserializingPrgm\obj\Debug\net6.0\DeserializingPrgm.csproj.AssemblyReference.cache
+E:\nithu\DeserializingPrgm\obj\Debug\net6.0\DeserializingPrgm.GeneratedMSBuildEditorConfig.editorconfig
+E:\nithu\DeserializingPrgm\obj\Debug\net6.0\DeserializingPrgm.AssemblyInfoInputs.cache
+E:\nithu\DeserializingPrgm\obj\Debug\net6.0\DeserializingPrgm.AssemblyInfo.cs
+E:\nithu\DeserializingPrgm\obj\Debug\net6.0\DeserializingPrgm.csproj.CoreCompileInputs.cache
+E:\nithu\DeserializingPrgm\obj\Debug\net6.0\DeserializingPrgm.dll
+E:\nithu\DeserializingPrgm\obj\Debug\net6.0\refint\DeserializingPrgm.dll
+E:\nithu\DeserializingPrgm\obj\Debug\net6.0\DeserializingPrgm.pdb
+E:\nithu\DeserializingPrgm\obj\Debug\net6.0\DeserializingPrgm.genruntimeconfig.cache
+E:\nithu\DeserializingPrgm\obj\Debug\net6.0\ref\DeserializingPrgm.dll

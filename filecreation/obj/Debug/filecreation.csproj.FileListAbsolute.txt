@@ -1,0 +1,8 @@
+E:\nithu\filecreation\bin\Debug\filecreation.exe.config
+E:\nithu\filecreation\bin\Debug\filecreation.exe
+E:\nithu\filecreation\bin\Debug\filecreation.pdb
+E:\nithu\filecreation\obj\Debug\filecreation.csproj.AssemblyReference.cache
+E:\nithu\filecreation\obj\Debug\filecreation.csproj.SuggestedBindingRedirects.cache
+E:\nithu\filecreation\obj\Debug\filecreation.csproj.CoreCompileInputs.cache
+E:\nithu\filecreation\obj\Debug\filecreation.exe
+E:\nithu\filecreation\obj\Debug\filecreation.pdb
