@@ -1,0 +1,11 @@
+E:\nithu\FactorialApplication\bin\Debug\FactorialApplication.exe.config
+E:\nithu\FactorialApplication\bin\Debug\FactorialApplication.exe
+E:\nithu\FactorialApplication\bin\Debug\FactorialApplication.pdb
+E:\nithu\FactorialApplication\obj\Debug\FactorialApplication.csproj.AssemblyReference.cache
+E:\nithu\FactorialApplication\obj\Debug\FactorialApplication.csproj.SuggestedBindingRedirects.cache
+E:\nithu\FactorialApplication\obj\Debug\FactorialApplication.Form1.resources
+E:\nithu\FactorialApplication\obj\Debug\FactorialApplication.Properties.Resources.resources
+E:\nithu\FactorialApplication\obj\Debug\FactorialApplication.csproj.GenerateResource.cache
+E:\nithu\FactorialApplication\obj\Debug\FactorialApplication.csproj.CoreCompileInputs.cache
+E:\nithu\FactorialApplication\obj\Debug\FactorialApplication.exe
+E:\nithu\FactorialApplication\obj\Debug\FactorialApplication.pdb
