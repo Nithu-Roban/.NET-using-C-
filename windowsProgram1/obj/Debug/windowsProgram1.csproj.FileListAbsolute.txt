@@ -1,0 +1,11 @@
+E:\nithu\windowsProgram1\bin\Debug\windowsProgram1.exe.config
+E:\nithu\windowsProgram1\bin\Debug\windowsProgram1.exe
+E:\nithu\windowsProgram1\bin\Debug\windowsProgram1.pdb
+E:\nithu\windowsProgram1\obj\Debug\windowsProgram1.csproj.AssemblyReference.cache
+E:\nithu\windowsProgram1\obj\Debug\windowsProgram1.csproj.SuggestedBindingRedirects.cache
+E:\nithu\windowsProgram1\obj\Debug\windowsProgram1.Properties.Resources.resources
+E:\nithu\windowsProgram1\obj\Debug\windowsProgram1.csproj.GenerateResource.cache
+E:\nithu\windowsProgram1\obj\Debug\windowsProgram1.csproj.CoreCompileInputs.cache
+E:\nithu\windowsProgram1\obj\Debug\windowsProgram1.exe
+E:\nithu\windowsProgram1\obj\Debug\windowsProgram1.pdb
+E:\nithu\windowsProgram1\obj\Debug\windowsProgram1.Form1.resources
