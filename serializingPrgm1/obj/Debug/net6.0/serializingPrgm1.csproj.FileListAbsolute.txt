@@ -1,0 +1,15 @@
+E:\nithu\serializingPrgm1\bin\Debug\net6.0\serializingPrgm1.exe
+E:\nithu\serializingPrgm1\bin\Debug\net6.0\serializingPrgm1.deps.json
+E:\nithu\serializingPrgm1\bin\Debug\net6.0\serializingPrgm1.runtimeconfig.json
+E:\nithu\serializingPrgm1\bin\Debug\net6.0\serializingPrgm1.dll
+E:\nithu\serializingPrgm1\bin\Debug\net6.0\serializingPrgm1.pdb
+E:\nithu\serializingPrgm1\obj\Debug\net6.0\serializingPrgm1.csproj.AssemblyReference.cache
+E:\nithu\serializingPrgm1\obj\Debug\net6.0\serializingPrgm1.GeneratedMSBuildEditorConfig.editorconfig
+E:\nithu\serializingPrgm1\obj\Debug\net6.0\serializingPrgm1.AssemblyInfoInputs.cache
+E:\nithu\serializingPrgm1\obj\Debug\net6.0\serializingPrgm1.AssemblyInfo.cs
+E:\nithu\serializingPrgm1\obj\Debug\net6.0\serializingPrgm1.csproj.CoreCompileInputs.cache
+E:\nithu\serializingPrgm1\obj\Debug\net6.0\serializingPrgm1.dll
+E:\nithu\serializingPrgm1\obj\Debug\net6.0\refint\serializingPrgm1.dll
+E:\nithu\serializingPrgm1\obj\Debug\net6.0\serializingPrgm1.pdb
+E:\nithu\serializingPrgm1\obj\Debug\net6.0\serializingPrgm1.genruntimeconfig.cache
+E:\nithu\serializingPrgm1\obj\Debug\net6.0\ref\serializingPrgm1.dll

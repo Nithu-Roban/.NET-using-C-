@@ -1,0 +1,15 @@
+E:\nithu\serializeWithSOAP\bin\Debug\net6.0\serializeWithSOAP.exe
+E:\nithu\serializeWithSOAP\bin\Debug\net6.0\serializeWithSOAP.deps.json
+E:\nithu\serializeWithSOAP\bin\Debug\net6.0\serializeWithSOAP.runtimeconfig.json
+E:\nithu\serializeWithSOAP\bin\Debug\net6.0\serializeWithSOAP.dll
+E:\nithu\serializeWithSOAP\bin\Debug\net6.0\serializeWithSOAP.pdb
+E:\nithu\serializeWithSOAP\obj\Debug\net6.0\serializeWithSOAP.csproj.AssemblyReference.cache
+E:\nithu\serializeWithSOAP\obj\Debug\net6.0\serializeWithSOAP.GeneratedMSBuildEditorConfig.editorconfig
+E:\nithu\serializeWithSOAP\obj\Debug\net6.0\serializeWithSOAP.AssemblyInfoInputs.cache
+E:\nithu\serializeWithSOAP\obj\Debug\net6.0\serializeWithSOAP.AssemblyInfo.cs
+E:\nithu\serializeWithSOAP\obj\Debug\net6.0\serializeWithSOAP.csproj.CoreCompileInputs.cache
+E:\nithu\serializeWithSOAP\obj\Debug\net6.0\serializeWithSOAP.dll
+E:\nithu\serializeWithSOAP\obj\Debug\net6.0\refint\serializeWithSOAP.dll
+E:\nithu\serializeWithSOAP\obj\Debug\net6.0\serializeWithSOAP.pdb
+E:\nithu\serializeWithSOAP\obj\Debug\net6.0\serializeWithSOAP.genruntimeconfig.cache
+E:\nithu\serializeWithSOAP\obj\Debug\net6.0\ref\serializeWithSOAP.dll
