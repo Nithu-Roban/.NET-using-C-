@@ -1,0 +1,15 @@
+E:\nithu\StringHandling\bin\Debug\net6.0\StringHandling.exe
+E:\nithu\StringHandling\bin\Debug\net6.0\StringHandling.deps.json
+E:\nithu\StringHandling\bin\Debug\net6.0\StringHandling.runtimeconfig.json
+E:\nithu\StringHandling\bin\Debug\net6.0\StringHandling.dll
+E:\nithu\StringHandling\bin\Debug\net6.0\StringHandling.pdb
+E:\nithu\StringHandling\obj\Debug\net6.0\StringHandling.csproj.AssemblyReference.cache
+E:\nithu\StringHandling\obj\Debug\net6.0\StringHandling.GeneratedMSBuildEditorConfig.editorconfig
+E:\nithu\StringHandling\obj\Debug\net6.0\StringHandling.AssemblyInfoInputs.cache
+E:\nithu\StringHandling\obj\Debug\net6.0\StringHandling.AssemblyInfo.cs
+E:\nithu\StringHandling\obj\Debug\net6.0\StringHandling.csproj.CoreCompileInputs.cache
+E:\nithu\StringHandling\obj\Debug\net6.0\StringHandling.dll
+E:\nithu\StringHandling\obj\Debug\net6.0\refint\StringHandling.dll
+E:\nithu\StringHandling\obj\Debug\net6.0\StringHandling.pdb
+E:\nithu\StringHandling\obj\Debug\net6.0\StringHandling.genruntimeconfig.cache
+E:\nithu\StringHandling\obj\Debug\net6.0\ref\StringHandling.dll
